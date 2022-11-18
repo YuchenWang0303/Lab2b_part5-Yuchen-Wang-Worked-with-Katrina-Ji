@@ -1,5 +1,5 @@
 # Lab2b_Part5
-### team mates: Yuchen Wang & Katrina Ji
+### Teammates: Yuchen Wang & Katrina Ji
 
 # GIF of I2C Traffic:
 
