@@ -1,5 +1,10 @@
 # Lab2b_Part5
+
+University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2b
 ### Teammates: Yuchen Wang & Katrina Ji
+    Yuchen Wang
+    wangyuchen0303@gmail.com
+    Tested on:  MacBook Pro (14-inch, 2021), macOS Monterey 12.6
 
 # GIF of I2C Traffic:
 
